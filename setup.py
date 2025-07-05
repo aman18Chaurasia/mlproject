@@ -22,5 +22,5 @@ setup(
     author='Aman',
     author_email='aman007chaurasia@gmail.com',
     packages=find_packages(),
-    install_requires=get_requirements('requirements.txt')
+    install_requires=get_requirements('requirements.txt')## this gets requirements.txt after removing '-e .'
 )
