@@ -126,7 +126,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Aman Chaurasia**  
-🔗 [LinkedIn](www.linkedin.com/in/aman-chaurasia-91443b263)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-chaurasia-91443b263)  
 💻 [GitHub](https://github.com/aman18Chaurasia)
 
 ---
